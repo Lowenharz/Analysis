@@ -1,0 +1,1 @@
+/home/kwu1/software/python/bin/python /illumina/scratch/K2-I/Users/tjiang1/Tool/SNV_likelihood_Pisces/snv_likelihood.py -b /illumina/scratch/K2-I/Users/tjiang1/Tool/SNV_likelihood_Pisces/test/*.bam -m /illumina/scratch/K2-I/software/lychee_for_bevmo/manifests/Release2HDNA.manifest.disjoint.bed -e tjiang1@illumina.com
